@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.075d9a29.chunk.css",
-    "main.js": "/repository-name/static/js/main.bb5910bb.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.bb5910bb.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.5f49de2e.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.5f49de2e.js.map",
-    "static/css/2.3aff398d.chunk.css": "/repository-name/static/css/2.3aff398d.chunk.css",
-    "static/js/2.bf2b05f1.chunk.js": "/repository-name/static/js/2.bf2b05f1.chunk.js",
-    "static/js/2.bf2b05f1.chunk.js.map": "/repository-name/static/js/2.bf2b05f1.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.d77b60fc5a1df7a849c7b6bb1f1d1169.js": "/repository-name/precache-manifest.d77b60fc5a1df7a849c7b6bb1f1d1169.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/2.3aff398d.chunk.css.map": "/repository-name/static/css/2.3aff398d.chunk.css.map",
-    "static/css/main.075d9a29.chunk.css.map": "/repository-name/static/css/main.075d9a29.chunk.css.map",
-    "static/media/semantic.min.css": "/repository-name/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/repository-name/static/media/logo.25bf045c.svg"
+    "main.css": "/GithubProfiles/static/css/main.075d9a29.chunk.css",
+    "main.js": "/GithubProfiles/static/js/main.8e6521c6.chunk.js",
+    "main.js.map": "/GithubProfiles/static/js/main.8e6521c6.chunk.js.map",
+    "runtime-main.js": "/GithubProfiles/static/js/runtime-main.8a7aaf2d.js",
+    "runtime-main.js.map": "/GithubProfiles/static/js/runtime-main.8a7aaf2d.js.map",
+    "static/css/2.554e7c42.chunk.css": "/GithubProfiles/static/css/2.554e7c42.chunk.css",
+    "static/js/2.bf2b05f1.chunk.js": "/GithubProfiles/static/js/2.bf2b05f1.chunk.js",
+    "static/js/2.bf2b05f1.chunk.js.map": "/GithubProfiles/static/js/2.bf2b05f1.chunk.js.map",
+    "index.html": "/GithubProfiles/index.html",
+    "precache-manifest.a0775002d396cb9acd0585cfa117f9f6.js": "/GithubProfiles/precache-manifest.a0775002d396cb9acd0585cfa117f9f6.js",
+    "service-worker.js": "/GithubProfiles/service-worker.js",
+    "static/css/2.554e7c42.chunk.css.map": "/GithubProfiles/static/css/2.554e7c42.chunk.css.map",
+    "static/css/main.075d9a29.chunk.css.map": "/GithubProfiles/static/css/main.075d9a29.chunk.css.map",
+    "static/media/semantic.min.css": "/GithubProfiles/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/GithubProfiles/static/media/logo.25bf045c.svg"
   }
 }
