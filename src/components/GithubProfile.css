@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+
+#profileItem{
+    width: 30%;
+    background-color: black;
+    font-size: 1.5em;
+    border-width: 5px;
+    margin: auto;
+    min-height: 150px;
+    margin-top: 30px;
+
+}
+
+#desc{
+    font-family: 'Amatic SC', cursive;
+    color: azure;
+}
+
+#title{
+    font-size: 1.5em;
+    color: cornflowerblue;
+    font-family: 'Amatic SC', cursive;
+}
+
